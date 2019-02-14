@@ -14,11 +14,10 @@ author_profile: true
 
 
 :pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12, Puerto Rico (Bachelor's Thesis)<br/>
-:tada:**Best Paper Award**<br/>
-A Aggarwal, **A Rajadesingan**, P Kumaraguru
+A Aggarwal, **A Rajadesingan**, P Kumaraguru (:tada:Best Paper Award:tada:)
 
 
-:pushpin:[Comment Spam Identification in Blogs using Comment-Blog Post Relationships and Content Analysis](https://ashwin-r.github.io/files/10.1007_978-3-642-28601-8_41.pdf) - CICLing’12, Delhi<br/>
+:pushpin:[Comment Spam Identification using Comment-Blog Post Relationships and Content Analysis](https://ashwin-r.github.io/files/10.1007_978-3-642-28601-8_41.pdf) - CICLing’12, Delhi<br/>
 **A Rajadesingan**, A Mahendran
 
 
