@@ -23,4 +23,4 @@ A Aggarwal, **A Rajadesingan**, P Kumaraguru
 **A Rajadesingan**, A Mahendran
 
 
-You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=GVOh8iUAAAAJ)
+You can also find my papers on [Google Scholar](https://scholar.google.com/citations?user=GVOh8iUAAAAJ).
