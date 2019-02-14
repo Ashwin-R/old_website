@@ -22,8 +22,5 @@ A Aggarwal, **A Rajadesingan**, P Kumaraguru
 [Comment Spam Identification in Blogs using Comment-Blog Post Relationships and Content Analysis](https://ashwin-r.github.io/files/10.1007_978-3-642-28601-8_41.pdf) - CICLing’12, Delhi<br/>
 **A Rajadesingan**, A Mahendran
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+You can also find my papers on [my Google Scholar profile](https://scholar.google.com/citations?user=GVOh8iUAAAAJ)
