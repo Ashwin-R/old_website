@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-:pushpin:[Detecting Sarcasm on Twitter: A Behavioral Modeling Approach](https://ashwin-r.github.io/files/SarcasmDetection.pdf) - WSDM’15, Shanghai, China **Master's Thesis**<br/>
+:pushpin:[Detecting Sarcasm on Twitter: A Behavioral Modeling Approach](https://ashwin-r.github.io/files/SarcasmDetection.pdf) - WSDM’15, Shanghai, China (Master's Thesis)<br/>
 **A Rajadesingan**, R Zafarani, H Liu
 
 
@@ -13,8 +13,8 @@ author_profile: true
 **A Rajadesingan**, H Liu
 
 
-:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12, Puerto Rico**Bachelor's Thesis**<br/>
-**Best Paper Award**
+:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12, Puerto Rico (Bachelor's Thesis)<br/>
+:tada:**Best Paper Award**<br/>
 A Aggarwal, **A Rajadesingan**, P Kumaraguru
 
 
