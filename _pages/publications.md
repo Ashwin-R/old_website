@@ -13,8 +13,8 @@ author_profile: true
 **A Rajadesingan**, H Liu
 
 
-:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12, Puerto Rico (Bachelor's Thesis)<br/>
 :tada:Best Paper Award:tada:<br/>
+:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12, Puerto Rico (Bachelor's Thesis)<br/>
 A Aggarwal, **A Rajadesingan**, P Kumaraguru
 
 
