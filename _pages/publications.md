@@ -14,7 +14,7 @@ author_profile: true
 **A Rajadesingan**, R Zafarani, H Liu
 
 
-:pushpin:[Identifying Users with Opposing Opinions in Twitter Debates](https://ashwin-r.github.io/files/1402.7143.pdf) - SBP’14, Washington, DC<br/>
+:pushpin:[Identifying Users with Opposing Opinions in Twitter Debates](https://ashwin-r.github.io/files/1402.7143.pdf) - SBP’14<br/>
 **A Rajadesingan**, H Liu
 
 
