@@ -19,8 +19,7 @@ author_profile: true
 
 
 
-:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12 <br/>
-Best Paper Award<br/>
+:pushpin:[PhishAri: Automatic Realtime Phishing Detection on Twitter](https://ashwin-r.github.io/files/phishari.pdf) - eCrime’12 Best Paper<br/>
 A Aggarwal, **A Rajadesingan**, P Kumaraguru
 
 
