@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-:pushpin:[Detecting Sarcasm on Twitter: A Behavioral Modeling Approach](https://ashwin-r.github.io/files/camera_ready_icwsm.pdf) - ICWSM’19<br/>
+:pushpin:[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwin-r.github.io/files/camera_ready_icwsm.pdf) - ICWSM’19<br/>
 **A Rajadesingan**, R Mahalingam, D Jurgens
 
 
