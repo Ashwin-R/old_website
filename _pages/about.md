@@ -13,7 +13,7 @@ Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a soc
 
 [Download CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
 
-<span style="color:blue">*What's new?*</span>
+<span style="color:blue">**What's new?**</span>
 
 - April 2019: Excited to have contributed to "Being Brown: South Asian Narratives of Brownness in South East Michigan", an art installation. Check out the [exhibit](https://www.lib.umich.edu/events/being-brown-south-asian-narratives-brownness-southeast-michigan) at the Hatcher Library Gallery this month!<br>
 - April 2019: [Full paper](https://arxiv.org/pdf/1904.04176.pdf) on factors that affect caste attitudes in India and the Indian diaspora in the US accepted at [ICWSM'19](https://www.icwsm.org/2019/index.php)!<br>
