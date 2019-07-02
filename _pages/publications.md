@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-:pushpin:[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwin-r.github.io/files/camera_ready_icwsm.pdf) - ICWSM’19<br/>
+:pushpin:[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwin-r.github.io/files/camera_ready_icwsm.pdf) [slides](https://ashwin-r.github.io/files/caste_icwsm_slides.pptx) - ICWSM’19 (Best Paper)<br/>
 **A Rajadesingan**, [R Mahalingam](https://lsa.umich.edu/psych/people/faculty/ramawasi.html), [D Jurgens](http://jurgens.people.si.umich.edu/)
 
 
