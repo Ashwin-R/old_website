@@ -15,8 +15,8 @@ Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a soc
 [Download CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
 
 <span style="color:CornflowerBlue">**What's new?**</span>
-- March 2020: Full paper on personalization in Twitter political campaigns during the 2019 India general elections accepted at [SMS'20](https://socialmediaandsociety.org/2019/smsociety-2020-cfp-chicago-usa-july-22-24-diverse-voices-promises-and-perils-of-social-media-for-diversity/)! (preprint soon)<br>
-- March 2020: Full paper on how distinctive toxicity norms are maintained in political subreddits accepted at [ICWSM'20](https://www.icwsm.org/2020/index.php)! (preprint soon)<br>
+- March 2020: Full paper on personalization in Twitter political campaigns during the 2019 India general elections accepted at [SMS'20](https://socialmediaandsociety.org/2019/smsociety-2020-cfp-chicago-usa-july-22-24-diverse-voices-promises-and-perils-of-social-media-for-diversity/)! ([pdf](http://ashwin-r.github.io/files/sms_2020_personalization_final.pdf))<br>
+- March 2020: Full paper on how distinctive toxicity norms are maintained in political subreddits accepted at [ICWSM'20](https://www.icwsm.org/2020/index.php)! ([pdf](http://ashwin-r.github.io/files/icwsm_2020_norms_final.pdf))<br>
 - February 2020: Great news! I was selected as a [Facebook Fellow 2020](https://research.fb.com/blog/2020/01/announcing-the-recipients-of-the-2020-facebook-fellowship-awards/) in the Computational Social Science track! 
 - December 2019: I just passed my candidacy exams on the topic Online Political Deliberation!
 - June 2019: Very happy to receive the Best Paper Award for our work on caste attitudes in marriage. Check out the [paper](https://ashwinrajadesingan.com/files/camera_ready_icwsm.pdf). More excitingly, the work was also picked up by a few mainstream news agencies including [The Times of India](https://web.archive.org/web/20190617021447/https://timesofindia.indiatimes.com/india/indian-matrimonial-sites-show-shift-in-attitude-towards-intercaste-marriage-study/articleshow/69812375.cms).<br>
