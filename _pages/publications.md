@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+:pushpin:[Leader or Party? Personalization in Twitter Political Campaigns during the 2019 Indian Elections](https://ashwin-r.github.io/files/sms_2020_personalization_final.pdf) - SMS'20<br/>
+**A Rajadesingan**, [A Panda](https://anmolpanda.github.io/), [J Pal](http://joyojeet.people.si.umich.edu/)
+
+:pushpin:[Quick, Community-Specific Learning: How Distinctive Toxicity Norms Are Maintained in Political Subreddits](icwsm_2020_norms_final.pdf) - ICWSM’20<br/>
+**A Rajadesingan**, [P Resnick](http://presnick.people.si.umich.edu/), [C Budak](http://cbudak.com/index.html)
 
 :pushpin:[Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profiles](https://ashwin-r.github.io/files/camera_ready_icwsm.pdf) ([slides](https://ashwin-r.github.io/files/caste_icwsm_slides.pptx)) - ICWSM’19 (Best Paper)<br/>
 **A Rajadesingan**, [R Mahalingam](https://lsa.umich.edu/psych/people/faculty/ramawasi.html), [D Jurgens](http://jurgens.people.si.umich.edu/)
