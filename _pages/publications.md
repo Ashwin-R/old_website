@@ -17,6 +17,7 @@ author_profile: true
 
 :pushpin:[Detecting Sarcasm on Twitter: A Behavioral Modeling Approach](https://ashwin-r.github.io/files/SarcasmDetection.pdf) - WSDM’15<br/>
 **A Rajadesingan**, [R Zafarani](http://ecs.syr.edu/faculty/reza/), [H Liu](http://www.public.asu.edu/~huanliu/)
+[Dataset](http://bit.ly/SarcasmDetectionWSDM2015)
 
 
 :pushpin:[Identifying Users with Opposing Opinions in Twitter Debates](https://ashwin-r.github.io/files/1402.7143.pdf) - SBP’14<br/>
