@@ -3,8 +3,6 @@ permalink: /project_better_conversations
 title: "Project Details"
 excerpt: "Project Details"
 author_profile: true
-redirect_from: 
-  - /project_better_conversations.html
 ---
 
 If you've reached this page through a recruitment message, here's what you need to know about the study:
