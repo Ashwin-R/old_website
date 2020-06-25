@@ -34,3 +34,4 @@ If you agree to take part in this study, you will be asked to participate in a o
 
 The University of Michigan Health Sciences and Behavioral Sciences Institutional Review Board has determined that this research is exempt from IRB oversight.
  
+Feel free to reach out to me for more details. My email address is first letter of my first name followed by the first seven letters of my last name at umich dot edu
