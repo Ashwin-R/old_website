@@ -4,7 +4,6 @@ title: "Project Details"
 excerpt: "Project Details"
 author_profile: true
 redirect_from: 
-  - /project_better_conversations/
   - /project_better_conversations.html
 ---
 
