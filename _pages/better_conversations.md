@@ -1,7 +1,7 @@
 ---
 permalink: /project_better_conversations
-title: "Project Details"
-excerpt: "Project Details"
+title: "Project: Improving political discussions on Reddit"
+excerpt: "Improving political discussions on Reddit"
 author_profile: true
 ---
 
