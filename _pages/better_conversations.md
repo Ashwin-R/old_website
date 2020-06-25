@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /project_better_conversations
 title: "Project Details"
 excerpt: "Project Details"
 author_profile: true
