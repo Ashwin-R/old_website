@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+:pushpin:[Political Discussion is Abundant in Non-political Subreddits (and Less Toxic)](https://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf) - ICWSM’21<br/>
+**A Rajadesingan**, [C Budak](http://cbudak.com/index.html), [P Resnick](http://presnick.people.si.umich.edu/)
+
+
 :pushpin:[Leader or Party? Personalization in Twitter Political Campaigns during the 2019 Indian Elections](https://ashwin-r.github.io/files/sms_2020_personalization_final.pdf) - SMS'20<br/>
 **A Rajadesingan**, [A Panda](https://anmolpanda.github.io/), [J Pal](http://joyojeet.people.si.umich.edu/)
 
