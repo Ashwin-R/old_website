@@ -12,8 +12,10 @@ I'm a 4th year PhD student at the University of Michigan's School of Information
 
 Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from Arizona State University where I worked with [Huan Liu](http://www.public.asu.edu/~huanliu/) on detecting sarcasm. Before that, I completed my Bachelors degree in Computer Science from VIT University, India during which time I worked with [Ponnurangam Kumaraguru](https://www.iiitd.ac.in/pk) at IIIT Delhi on detecting phishing attacks. 
 
-[Download CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
 I was awarded a Facebook fellowship in Computational Social Science. Here's the [research summary](http://ashwin-r.github.io/files/latest_fb_fellowship.pdf) I submitted as part of my application, hopefully it's useful for others applying.
+
+[Download CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
+
 
 <span style="color:CornflowerBlue">**What's new?**</span>
 - May 2021: Excited to start my Facebook internship working with Annie Franco on the Societal Impact team!<br>
