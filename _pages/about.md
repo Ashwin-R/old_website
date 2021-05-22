@@ -13,9 +13,10 @@ I'm a 4th year PhD student at the University of Michigan's School of Information
 Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from Arizona State University where I worked with [Huan Liu](http://www.public.asu.edu/~huanliu/) on detecting sarcasm. Before that, I completed my Bachelors degree in Computer Science from VIT University, India during which time I worked with [Ponnurangam Kumaraguru](https://www.iiitd.ac.in/pk) at IIIT Delhi on detecting phishing attacks. 
 
 [Download CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
+I was awarded a Facebook fellowship in Computational Social Science. Here's the [research summary](http://ashwin-r.github.io/files/latest_fb_fellowship.pdf) I submitted as part of my application, hopefully it's useful for others applying.
 
 <span style="color:CornflowerBlue">**What's new?**</span>
-
+- May 2021: Excited to start my Facebook internship working with Annie Franco on the Societal Impact team!<br>
 - April 2021: Full paper on polittical discussions in non-political spaces accepted at [ICWSM'21](https://www.icwsm.org/2021/)! ([pdf](http://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf))<br>
 - March 2020: Full paper on personalization in Twitter political campaigns during the 2019 India general elections accepted at [SMS'20](https://socialmediaandsociety.org/2019/smsociety-2020-cfp-chicago-usa-july-22-24-diverse-voices-promises-and-perils-of-social-media-for-diversity/)! ([pdf](http://ashwin-r.github.io/files/sms_2020_personalization_final.pdf))<br>
 - March 2020: Full paper on how distinctive toxicity norms are maintained in political subreddits accepted at [ICWSM'20](https://www.icwsm.org/2020/index.php)! ([pdf](http://ashwin-r.github.io/files/icwsm_2020_norms_final.pdf))<br>
