@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-:pushpin:[Political Discussion is Abundant in Non-political Subreddits (and Less Toxic)](https://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf) ([poster](https://drive.google.com/file/d/1lLod3Lb5cbvXhQIVEZDYB4k97bfTAsN1/view?usp=sharing)[list of political subreddits dataset](https://ashwin-r.github.io/files/subreddits_list.csv)) - ICWSM’21<br/>
+:pushpin:[Political Discussion is Abundant in Non-political Subreddits (and Less Toxic)](https://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf) ([poster](https://drive.google.com/file/d/1lLod3Lb5cbvXhQIVEZDYB4k97bfTAsN1/view?usp=sharing), [political subreddits dataset](https://ashwin-r.github.io/files/subreddits_list.csv)) - ICWSM’21<br/>
 **A Rajadesingan**, C Budak, P Resnick
 
 
