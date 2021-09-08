@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-:pushpin:[Political Discussion is Abundant in Non-political Subreddits (and Less Toxic)](https://ashwin-r.github.io/files/cscw_2021_crosspartisan_strategies.pdf) - CSCW’21<br/>
+:pushpin:['Walking Into a Fire Hoping You Don’t Catch': Strategies and
+Designs to Facilitate Cross-Partisan Online Discussions](https://ashwin-r.github.io/files/cscw_2021_crosspartisan_strategies.pdf) - CSCW’21<br/>
 **A Rajadesingan**, C Duran, P Resnick, C Budak
 
 :pushpin:[Political Discussion is Abundant in Non-political Subreddits (and Less Toxic)](https://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf) ([poster](https://drive.google.com/file/d/1lLod3Lb5cbvXhQIVEZDYB4k97bfTAsN1/view?usp=sharing), [political subreddits dataset](https://ashwin-r.github.io/files/subreddits_list.csv)) - ICWSM’21<br/>
