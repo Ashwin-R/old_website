@@ -18,7 +18,7 @@ I was awarded a Facebook fellowship in Computational Social Science in 2020. Her
 
 
 <span style="color:CornflowerBlue">**What's new?**</span>
-- Aug 2021: Full paper on how Reddit users navigate cross-partisan interactions on Reddit accepted at [CSCW'21](https://cscw.acm.org/2021/)! ([pdf](https://ashwin-r.github.io/files/cscw_2021_crosspartisan_strategies.pdf)<br>
+- Aug 2021: Full paper on how Reddit users navigate cross-partisan interactions on Reddit accepted at [CSCW'21](https://cscw.acm.org/2021/)! ([pdf](https://ashwin-r.github.io/files/cscw_2021_crosspartisan_strategies.pdf))<br>
 - May 2021: Excited to start my Facebook internship working with Annie Franco on the Societal Impact team!<br>
 - April 2021: Full paper on political discussions in non-political spaces accepted at [ICWSM'21](https://www.icwsm.org/2021/)! ([pdf](http://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf))<br>
 - March 2020: Full paper on personalization in Twitter political campaigns during the 2019 India general elections accepted at [SMS'20](https://socialmediaandsociety.org/2019/smsociety-2020-cfp-chicago-usa-july-22-24-diverse-voices-promises-and-perils-of-social-media-for-diversity/)! ([pdf](http://ashwin-r.github.io/files/sms_2020_personalization_final.pdf))<br>
