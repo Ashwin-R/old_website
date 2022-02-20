@@ -22,6 +22,7 @@ I was awarded a Facebook fellowship in Computational Social Science in 2020. Her
 
 
 <span style="color:CornflowerBlue">**What's new?**</span>
+- Feb 2022: Passed my dissertation proposal defense! Received great feedback from the committee (Ceren Budak, Paul Resnick, Brian Weeks and Chris Bail). Excited to see how the final experiment shapes up.
 - Aug 2021: Full paper on how Reddit users navigate cross-partisan interactions on Reddit accepted at [CSCW'21](https://cscw.acm.org/2021/)! ([pdf](https://ashwin-r.github.io/files/cscw_2021_crosspartisan_strategies.pdf))<br>
 - May 2021: Excited to start my Facebook internship working with Annie Franco on the Societal Impact team!<br>
 - April 2021: Full paper on political discussions in non-political spaces accepted at [ICWSM'21](https://www.icwsm.org/2021/)! ([pdf](http://ashwin-r.github.io/files/icwsm_2021_political_in_nonpolitical___authorcopy.pdf))<br>
