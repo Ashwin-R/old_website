@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ashwin Rajadesingan"
 title_separator          : "-"
 name                     : &name "Ashwin Rajadesingan"
-description              : &description "PhD student in School of Information at University of Michigan"
+description              : #&description "PhD student in School of Information at University of Michigan"
 url                      : https://ashwin-r.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ashwin-r/ashwin-r.github.io"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "ashwinrajadesingan"
+  linkedin         : 
   orcid            : 
   pinterest        :
   soundcloud       :
