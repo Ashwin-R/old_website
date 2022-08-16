@@ -15,12 +15,6 @@ I'm an Assistant Professor at the [Department of Communication Studies](https://
 I received my PhD in Information from the [University of Michigan](https://www.si.umich.edu/). Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from [Arizona State University](https://scai.engineering.asu.edu/). Before that, I completed my Bachelors degree in Computer Science from [VIT University, India](https://vit.ac.in/). 
 
 
-
-
-***
-
-I was awarded a Facebook fellowship in Computational Social Science in 2020. Here's the [research summary](http://ashwin-r.github.io/files/latest_fb_fellowship.pdf) I submitted as part of my application, hopefully it's useful for others applying.
-
 ***
 
 
