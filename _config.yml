@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Ashwin Rajadesingan"
   avatar           : "profile.png"
-  bio              : "PhD student at UMSI"
-  location         : "Ann Arbor, MI"
+  bio              : 
+  location         : "Austin, TX"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=GVOh8iUAAAAJ&hl=en"
-  email            :
+  email            : "arajades [at] utexas [dot] edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
