@@ -23,8 +23,6 @@ I was awarded a Facebook fellowship in Computational Social Science in 2020. Her
 
 ***
 
-[CV](http://ashwin-r.github.io/files/ashwin_rajadesingan_resume.pdf)
-
 
 <span style="color:CornflowerBlue">**What's new?**</span>
 - August 2022: Starting as an Assistant Prof. Hook 'em!
