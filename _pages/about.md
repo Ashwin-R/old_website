@@ -12,7 +12,7 @@ I'm an Assistant Professor at the [Department of Communication Studies](https://
 
 
 
-I received my PhD from the University of Michigan's School of Information. Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from [Arizona State University](https://scai.engineering.asu.edu/). Before that, I completed my Bachelors degree in Computer Science from VIT University, India. 
+I received my PhD in Information from the [University of Michigan](https://www.si.umich.edu/). Before starting my PhD, I worked at [Doximity](https://www.doximity.com/), a social network for medical professionals, as a data scientist for a few years. I have a Masters degree in Computer Science from [Arizona State University](https://scai.engineering.asu.edu/). Before that, I completed my Bachelors degree in Computer Science from [VIT University, India](https://vit.ac.in/). 
 
 
 
