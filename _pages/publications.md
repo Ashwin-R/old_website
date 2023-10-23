@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-:pushpin:[GuesSync!: An Online Casual Game To Reduce Affective Polarization](https://ashwin-r.github.io/files/CSCW_guessync_2023.pdf) - CSCW'23<br/>
+:pushpin:[GuesSync!: An Online Casual Game To Reduce Affective Polarization](https://ashwin-r.github.io/files/CSCW_guessync_2023.pdf) - CSCW'23<br/> ([slides](https://github.com/Ashwin-R/Ashwin-R.github.io/blob/master/files/CSCW_2023.pptx), gamelink: www.guessync.com)
 **A Rajadesingan**, D Choo, J Zhang, M Inakage, C Budak, P Resnick
 
 :pushpin:['Walking Into a Fire Hoping You Don’t Catch': Strategies and
